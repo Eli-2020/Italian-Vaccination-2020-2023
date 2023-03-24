@@ -11,11 +11,10 @@ Table of Content
   * [Licensing](#licensing)
   * [Authors](#Authors)
 # Italian-Vaccination-2020-2023
-Analysis of Italy vaccination campaign of covid-19 in 2021, the italian government got four diffenrent types of vaccines to protect the population,
+Analysis of Italy vaccination campaign of covid-19 between December 27, 2020 and March 22, 2023, the italian government got diffenrent types of vaccines to protect the population and two boosters to maintain the protection.  
 ## Description
-This is a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science, within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
-The project is an analysis of the vaccination campaign against covid-19 in Italy that began in 2020, it is using three different types of vaccines, which need two doses to be effective, also have different times between the first dose and the second, likewise, their availability and quantities are different.
-The age groups are eight, the first is made up of young people between 16 and 19 years old, the following groups are for ten years up to 89 years and the last one is ninety years or more.
+This is the continuation of a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science( May 2021), within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
+It is a way of presenting the information regarding what has happened with the vaccination campaign in Italy through the streamlit tool, which allows the user to interact with the information in a friendly and close way.
 
 ## Installation guide
 
@@ -35,7 +34,7 @@ If you use pip, you can install:
 
 For this project, one downloaded file was used in the direction given above, 
 
-* Italian vaccine campaign Date (December 27, 2020 to may 25, 2021) 
+* Italian vaccine campaign Date (December 27, 2020 to march 22, 2023) 
 * source: [Italian Vaccination](https://www.kaggle.com/arthurio/italian-vaccination)
 
 ## Dataset
@@ -48,20 +47,14 @@ shape (57618, 22)
 * Vaccine supplier: Pfizer, Astrazeneca and Moderna
 * Region: abbreviation of the Italian region
 * Age range: age group
-* Number of males: number of vaccinated males
-* Number of females: number of vaccinated females
-* Number of healthcare workers: number of vaccinated healthcare workers
-* Number of non-healthcare workers: number of vaccinated non-healthcare workers
-* Care home patients: number of vaccinated care home patients
-* Number of 60-69 people: number of vaccinated people aged 60-69
-* Number of 70-79 people: number of vaccinated people aged 70-79
-* Number of over 80: number of vaccinated people aged 80+
-* Armed forces: number of vaccinated military personnel
-* School staff: number of the vaccinated school staff
-* Vulnerable subjects: number of vaccinated vulnerable subjects
-* Others: number of vaccinated people from other categories
+* Males: number of vaccinated males
+* Females: number of vaccinated females
 * First dose: number of administered first vaccine doses
 * Second dose: number of administered second vaccine doses
+* Previous infection: 
+* Additional Booster Dose:
+* Second Booster:
+* db3: 
 * NUTS1 code: European code for major socio-economic regions
 * NUTS2 code: European code for basic regions for the application of regional policies
 * ISTAT code: region code by Italian National Institute of Statistics
