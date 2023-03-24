@@ -15,6 +15,7 @@ Analysis of Italy vaccination campaign of covid-19 between December 27, 2020 and
 ## Description
 This is the continuation of a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science( May 2021), within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
 It is a way of presenting the information regarding what has happened with the vaccination campaign in Italy through the streamlit tool, which allows the user to interact with the information in a friendly and close way.
+See the previous analysis.[here](https://github.com/Eli-2020/Italy_vaccination_campaign)
 
 ## Installation guide
 
@@ -34,7 +35,7 @@ If you use pip, you can install:
 
 For this project, one downloaded file was used in the direction given above, 
 
-* Italian vaccine campaign Date (December 27, 2020 to march 22, 2023) 
+* Italian vaccine campaign Date (December 27, 2020 to March 22, 2023) 
 * source: [Italian Vaccination](https://www.kaggle.com/arthurio/italian-vaccination)
 
 ## Dataset
