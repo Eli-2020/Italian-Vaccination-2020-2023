@@ -52,10 +52,9 @@ shape (57618, 22)
 * Females: number of vaccinated females
 * First dose: number of administered first vaccine doses
 * Second dose: number of administered second vaccine doses
-* Previous infection: 
-* Additional Booster Dose:
-* Second Booster:
-* db3: 
+* Previous infection: number of administrated doses to subjects previously infected with COVID-19
+* Additional Booster Dose: number of administrated additional doses or boosters
+* Second Booster: number of administrated fourth doses to people who completed primary vaccination series (2 doses plus additional dose) at least 4 months (120 days) before
 * NUTS1 code: European code for major socio-economic regions
 * NUTS2 code: European code for basic regions for the application of regional policies
 * ISTAT code: region code by Italian National Institute of Statistics
